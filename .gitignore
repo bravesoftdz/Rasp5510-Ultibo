@@ -9,6 +9,7 @@ ehthumbs.db
 *.o
 *.compiled
 *.ppu
+kernel*.img
 backup/
 lib/
 
