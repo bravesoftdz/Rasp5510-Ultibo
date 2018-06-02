@@ -5,5 +5,5 @@ This application uses
 - an HC-05 Bluetooth module
 - a Nokia LCD5110 display
 - Thread controlling serial communication with Bluetooth, for date/time
-  adjusts and reply infromation about date, time and temperature
+  adjusts and reply information about date, time and temperature
 
