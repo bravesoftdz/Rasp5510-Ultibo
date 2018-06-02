@@ -1,4 +1,9 @@
 
-This application uses an DS3231 RTC module and a Bluetooth connection, for date/time adjusts.
+This application uses
 
-The thread module assumes the communication and passes the adjusts to the main thread.
+- a DS3231 RTC module
+- an HC-05 Bluetooth module
+- a Nokia LCD5110 display
+- Thread controlling serial communication with Bluetooth, for date/time
+  adjusts and reply infromation about date, time and temperature
+

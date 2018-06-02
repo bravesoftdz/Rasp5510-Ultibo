@@ -31,7 +31,7 @@
         <FormatVersion Value="1"/>
       </local>
     </RunParams>
-    <Units Count="3">
+    <Units Count="4">
       <Unit0>
         <Filename Value="LCD_RTC.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -44,6 +44,11 @@
         <Filename Value="../LCD5110_Basic/DefaultFonts.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit2>
+      <Unit3>
+        <Filename Value="threadserial.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ThreadSerial"/>
+      </Unit3>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
