@@ -67,9 +67,18 @@ procedure SetDayOfWeek();
 var
   Data: array [0..1] of Byte;
   Count: LongWord;
-  sec, min, hr, dw, dy, mh, yr: Byte;
-  dayOfWeek: Byte;
+  sec, min, hr, dw, dy, mh, yr, dayOfWeek: Byte;
 begin
+  sec := 0;
+  min := 0;
+  hr := 0;
+  dw := 0;
+  dy := 0;
+  mh := 0;
+  yr := 0;
+  dayOfWeek := 0;
+  Count := 0;
+
   ReadDateTime(sec, min, hr, dw, dy, mh, yr);
 
   dayOfWeek := WeekDay(yr, mh, dy);
@@ -276,6 +285,14 @@ begin
 
   if tp <> '%' then
   begin
+    second := 0;
+    minute := 0;
+    hour := 0;
+    dayOfWeek := 0;
+    dayOfMonth := 0;
+    month := 0;
+    year := 0;
+
     ReadDateTime(second, minute, hour, dayOfWeek, dayOfMonth, month, year);
 
     case tp of
