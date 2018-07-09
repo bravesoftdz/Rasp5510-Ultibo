@@ -1039,7 +1039,7 @@ begin
     begin
       Data := bitmap[cx + ((cy div 8) * sx)];
 
-      if (Data and (1 shl bit)) > 0 then
+      if (Data and (1 shl bit)) <> 0 then
         SetPixel(x + cx, y + cy)
       else
         ClrPixel(x + cx, y + cy);

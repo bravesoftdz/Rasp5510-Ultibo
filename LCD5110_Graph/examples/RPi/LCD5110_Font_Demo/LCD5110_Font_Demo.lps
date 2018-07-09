@@ -7,8 +7,7 @@
       <Unit0>
         <Filename Value="LCD5110_Font_Demo.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="4"/>
+        <TopLine Value="13"/>
         <CursorPos X="3" Y="21"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
@@ -21,7 +20,12 @@
       <Unit2>
         <Filename Value="../../../LCD5110_Graph.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="88"/>
+        <CursorPos X="199" Y="98"/>
         <UsageCount Value="20"/>
+        <Loaded Value="True"/>
       </Unit2>
     </Units>
     <JumpHistory Count="1">

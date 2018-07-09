@@ -8,28 +8,36 @@
         <Filename Value="LCD5110_Graph_Demo.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="4"/>
-        <CursorPos X="3" Y="21"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="43"/>
+        <CursorPos X="44" Y="67"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="../../../LCD5110_Graph.pas"/>
         <IsPartOfProject Value="True"/>
-        <UsageCount Value="20"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1019"/>
+        <CursorPos X="22" Y="1040"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="../../../DefaultFonts.pas"/>
         <IsPartOfProject Value="True"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="21"/>
       </Unit2>
       <Unit3>
         <Filename Value="../../../LCD_Graphics.pas"/>
         <IsPartOfProject Value="True"/>
-        <UsageCount Value="20"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="22" Y="79"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
       </Unit3>
     </Units>
-    <JumpHistory Count="2" HistoryIndex="1">
+    <JumpHistory Count="14" HistoryIndex="13">
       <Position1>
         <Filename Value="LCD5110_Graph_Demo.lpr"/>
         <Caret Line="67" TopLine="33"/>
@@ -38,6 +46,52 @@
         <Filename Value="LCD5110_Graph_Demo.lpr"/>
         <Caret Line="209" Column="37" TopLine="188"/>
       </Position2>
+      <Position3>
+        <Filename Value="../../../LCD5110_Graph.pas"/>
+      </Position3>
+      <Position4>
+        <Filename Value="../../../LCD_Graphics.pas"/>
+      </Position4>
+      <Position5>
+        <Filename Value="../../../LCD_Graphics.pas"/>
+        <Caret Line="78" Column="4" TopLine="78"/>
+      </Position5>
+      <Position6>
+        <Filename Value="../../../LCD_Graphics.pas"/>
+        <Caret Line="103" Column="83" TopLine="78"/>
+      </Position6>
+      <Position7>
+        <Filename Value="LCD5110_Graph_Demo.lpr"/>
+        <Caret Line="65" Column="43" TopLine="43"/>
+      </Position7>
+      <Position8>
+        <Filename Value="../../../LCD_Graphics.pas"/>
+        <Caret Line="75" Column="23" TopLine="69"/>
+      </Position8>
+      <Position9>
+        <Filename Value="LCD5110_Graph_Demo.lpr"/>
+        <Caret Line="10" TopLine="43"/>
+      </Position9>
+      <Position10>
+        <Filename Value="../../../LCD_Graphics.pas"/>
+        <Caret Line="9" TopLine="18"/>
+      </Position10>
+      <Position11>
+        <Filename Value="../../../LCD_Graphics.pas"/>
+        <Caret Line="110" TopLine="78"/>
+      </Position11>
+      <Position12>
+        <Filename Value="../../../LCD_Graphics.pas"/>
+        <Caret Line="99" Column="49" TopLine="72"/>
+      </Position12>
+      <Position13>
+        <Filename Value="../../../LCD_Graphics.pas"/>
+        <Caret Line="98" TopLine="71"/>
+      </Position13>
+      <Position14>
+        <Filename Value="../../../LCD_Graphics.pas"/>
+        <Caret Line="79" Column="23" TopLine="71"/>
+      </Position14>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>

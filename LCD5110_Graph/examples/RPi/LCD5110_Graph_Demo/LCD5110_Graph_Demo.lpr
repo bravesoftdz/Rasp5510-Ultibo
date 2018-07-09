@@ -55,8 +55,16 @@ var
   i, c, pc, p: integer;
 begin
   try
+    {
     myGLCD.ClrScr();
     myGLCD.DrawBitmap(0, 0, arduino_logo, 84, 48);
+    myGLCD.Update();
+
+    Sleep(2000);
+    }
+
+    myGLCD.ClrScr();
+    myGLCD.DrawBitmap(18, 0, logopi, 48, 48);
     myGLCD.Update();
 
     Sleep(2000);
